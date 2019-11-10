@@ -1,0 +1,22 @@
+
+body {
+    font-family: 'McLaren', cursive;
+    font-family: 'Rubik', sans-serif;
+}
+
+.title h1 {
+    font-size: 54px;
+    margin: 23px 30px;
+}
+
+.cards {
+    margin: 42px 30px;
+}
+
+.form {
+    margin: 20px 190px;
+}
+
+.form h1 {
+    height: 83px;
+}
